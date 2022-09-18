@@ -6,8 +6,7 @@
 </div>
 </div style="display: inline_block"><br>
   <img align="center" alt="vitor-python" height="70" weidth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img align="rigth" alt="babyyoda" src="https://tenor.com/view/baby-yoda-hi-hello-greet-wave-gif-15912640">
-</div>
+ 
   
   ##
   <div>
