@@ -13,6 +13,9 @@
   <img align="center" alt="vitor-python" height="70" weidth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   
   ##
-  
+  <div>
+    <a href="https://www.instagram.com/_.souza99/" target="_black"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_black"></a>
+    <a href="https://www.linkedin.com/in/paulo-vitor-ferreira-699a17163/" target="_black"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_black"></a>
+    <a href="paulovitorsouza_99@outlook.com.br" target="_black"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=black" target="_black"></a>
   
           
