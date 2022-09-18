@@ -1,9 +1,5 @@
 ### hello world! 👋 call me paulo vitor
 
-- 💻 trabalhando atualemnte com suporte 
-- 📓 estudando python 🐍    
-- 👨‍🎓 Cursando Analise e Desenvolvimento de sistemas
-
 <div>
 <a href="https://github.com/vsouza99">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsouza99&layout=compact&langs_count=7&theme=tokyonight"/>
